@@ -15,12 +15,6 @@
 <img align ="left"  width = "30px"  style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align ="left"  width = "30px"  style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align ="left"  width = "30px"  style ="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-
-
-          
-    
-
 <hr>
 
 <a align ="left" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=premraj-87&theme=aura&hide_border=true&border_radius=6.2" alt="GitHub Streak" /></a>
