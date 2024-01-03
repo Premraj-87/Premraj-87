@@ -1,7 +1,7 @@
 <h2>Prem Raj Anand</h2>
 
 
-<span style="color: yellow;">Web Sorcerer</span>
+<p style="color: yellow;">Web Sorcerer</p>
 
 
 
