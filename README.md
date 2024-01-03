@@ -20,6 +20,10 @@
           
 <img align ="left"  width = "30px" alt="javascript" style ="padding-right:10px;" 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img align ="left"  width = "30px" alt="React" style ="padding-right:10px;" 
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
           
 <img align ="left"  width = "30px" alt="java" style ="padding-right:10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
