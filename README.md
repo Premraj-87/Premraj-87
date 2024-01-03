@@ -9,7 +9,8 @@
 
 
 <h3> 🤖 Languages and Tools</h3
-<img align ="left" alt ="java" widht ="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img align ="left" alt ="java" widht ="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img align ="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
     
 
 
