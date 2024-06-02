@@ -27,9 +27,4 @@
 <img align ="left"  width = "30px" alt="java" style ="padding-right:10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <br>
-<hr>
-<h3> 📊 Stats</h3>
-<br>
 
-
-<a align ="left" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=premraj-87&theme=aura&hide_border=true&border_radius=6.2" alt="GitHub Streak" /></a>
