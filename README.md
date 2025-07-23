@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prem Raj Anand</h1>
-<h3 align="center">A passionate React Frontend Developer from India</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Turning+Ideas+Into+UI+Magic!;React+Enthusiast+%F0%9F%92%BB;Frontend+Developer+%F0%9F%93%8A;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
