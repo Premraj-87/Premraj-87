@@ -49,15 +49,12 @@
 
 ## 🚀 Top Projects
 
-<p align="center">
-  
-| Project | Tech Stack | Demo | Code |
-|--------|------------|------|------|
-| **Toxic Comment Detector** | HTML, CSS, JS | [Live](https://your-live-url.com) | [Repo](https://github.com/your-username/toxic-chat) |
-| **WebOS UI Clone** | HTML, CSS, JS | [Live](https://your-live-url.com) | [Repo](https://github.com/your-username/web-os) |
-| **Portfolio Website** | React + Tailwind | [Live](https://yourportfolio.com) | [Repo](https://github.com/your-username/portfolio) |
 
-</p>
+| 🌟 Project Name | 🛠 Tech Stack | 🔗 Live Demo | 📦 Repository |
+|----------------|--------------|--------------|---------------|
+| **Toxic Comment Detector** <br> _Real-time toxic chat filter for streams_ | HTML, CSS, JS | [🌐 Live](https://your-live-url.com) | [💻 Repo](https://github.com/Premraj-87/toxic-chat) |
+| **WebOS UI Clone** <br> _Web-based desktop OS experience_ | HTML, CSS, JS | [🖥️ Live](https://your-live-url.com) | [📁 Repo](https://github.com/Premraj-87/web-os) |
+| **Portfolio Website** <br> _Modern portfolio built with React_ | React, Tailwind CSS | [🚀 Live](https://yourportfolio.com) | [🗂 Repo](https://github.com/Premraj-87/portfolio) |
 
 ---
 
