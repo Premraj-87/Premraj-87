@@ -49,13 +49,6 @@
 
 ---
 
-<!-- GitHub Trophies -->
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Premraj-87&theme=radical&margin-w=10&no-frame=true" />
-</p>
-
----
 
 <!-- Contribution Graph -->
 ### 📈 Contribution Graph
