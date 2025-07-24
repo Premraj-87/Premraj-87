@@ -33,7 +33,7 @@
 </td>
 
 <td width="40%" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="80%" />
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="80%" />
 </td>
 </tr>
 </table>
