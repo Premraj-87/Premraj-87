@@ -63,9 +63,22 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
+<!-- Animate Streak Card on Load -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Premraj-87&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=Premraj-87&theme=dark&hide_border=true&background=000000"
+    alt="GitHub Streak"
+    style="animation: fadeIn 2s ease-in-out;"
+  />
 </p>
+
+<!-- Add fade-in animation -->
+<style>
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(20px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+</style>
 
 ---
 ## 🤝 Connect with Me
