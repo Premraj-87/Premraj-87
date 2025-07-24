@@ -2,10 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2CB&width=600&center=false&vCenter=false&repeat=true&lines=Hi+there%2C+I'm+Prem+Raj+Anand.;Frontend+React+Developer" alt="Typing SVG" />
 </p>
 
-
-
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF00&center=false&vCenter=false&multiline=true&width=600&height=100&lines=Aspiring+Full+Stack+Developer+learning+MERN.;Solving+real+problems+through+code.;Exploring+Next.js,+Docker,+and+Cloud+deployments.;Curious+about+AI+%26+ML+for+future+use.;Open+to+internships+and+freelance+projects." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF00&center=false&vCenter=false&multiline=true&width=600&height=100&lines=Learning+MERN+stack%2C+one+step+at+a+time.;Building+real+projects+to+improve+every+day.;Exploring+Next.js%2C+Docker%2C+and+cloud+hosting.;Getting+curious+about+AI+and+machine+learning.;Open+to+internships+and+collaboration+opportunities." alt="Typing Animation" />
 </p>
 
 
