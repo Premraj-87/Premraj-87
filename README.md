@@ -84,3 +84,31 @@
 ---
 
 > “Code with passion, design with love.” — Prem Raj Anand 💻🔥
+> ### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Premraj's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Premraj-87&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛰️ Contribution Graph (Animated Look)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Premraj-87&theme=gruvbox&row=1&margin-w=10&no-bg=true" alt="GitHub Trophies" />
+</p>
+
