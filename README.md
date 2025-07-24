@@ -48,13 +48,12 @@
 ## 🚀 Top Projects
 
 
-| 🌟 Project Name | 🛠 Tech Stack | 🔗 Live Demo | 📦 Repository |
-|----------------|--------------|--------------|---------------|
-| **Toxic Comment Detector** <br> _Real-time toxic chat filter for streams_ | HTML, CSS, JS | [🌐 Live](https://your-live-url.com) | [💻 Repo](https://github.com/Premraj-87/toxic-chat) |
-| **WebOS UI Clone** <br> _Web-based desktop OS experience_ | HTML, CSS, JS | [🖥️ Live](https://your-live-url.com) | [📁 Repo](https://github.com/Premraj-87/web-os) |
-| **Portfolio Website** <br> _Modern portfolio built with React_ | React, Tailwind CSS | [🚀 Live](https://yourportfolio.com) | [🗂 Repo](https://github.com/Premraj-87/portfolio) |
 
----
+| Project | Description | Tech Stack | Live Demo | Repository |
+|--------|-------------|------------|-----------|------------|
+| **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. | HTML, CSS, JavaScript | [Live](https://your-live-url.com) | [GitHub](https://github.com/Premraj-87/toxic-chat) |
+| **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | HTML, CSS, JavaScript | [Live](https://your-live-url.com) | [GitHub](https://github.com/Premraj-87/web-os) |
+| **Portfolio Website** | A personal portfolio showcasing projects and skills using modern UI. | React, Tailwind CSS | [Live](https://yourportfolio.com) | [GitHub](https://github.com/Premraj-87/portfolio) |
 
 
 <!-- GitHub Stats -->
