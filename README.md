@@ -1,99 +1,111 @@
+<h3 align="center">👋 I'm React Frontend Web Developer</h3>
 
+<h1 align="center">Hi there, I'm Prem Raj Anand</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Turning+Ideas+Into+UI+Magic!;React+Enthusiast+%F0%9F%92%BB;Frontend+Developer+%F0%9F%93%8A;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Premraj-87&style=flat-square&color=green" alt="Profile views" />
 </p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF00&center=false&vCenter=false&multiline=true&width=600&height=100&lines=Aspiring+Full+Stack+Developer+learning+MERN.;Solving+real+problems+through+code.;Exploring+Next.js,+Docker,+and+Cloud+deployments.;Curious+about+AI+%26+ML+for+future+use.;Open+to+internships+and+freelance+projects." alt="Typing Animation" />
-</p>
-
-
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Premraj-87&label=Profile%20views&color=0e75b6&style=flat" alt="Premraj-87" />
-</p>
-
-
 
 ---
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      
-### 🧰 Languages & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<!-- Typing Animated About Me Section -->
+<p align="left">
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&pause=1000&color=39FF14&vCenter=true&multiline=true&width=450&height=120&lines=I'm+working+towards+becoming+a+full+stack+web+developer.;I+love+building+things+with+MERN+stack.;Currently+learning+Next.js,+Docker,+Cloud,+and+AI.;Looking+for+internships+or+freelance+projects.;Let's+connect+and+build+awesome+things+together!;" alt="Typing SVG" />
 </p>
-
-</td>
-
-<td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" width="80%" />
-</td>
-</tr>
-</table>
 
 ---
 
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,figma,github,vercel,netlify" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Premraj-87&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Premraj-87&theme=onedark&no-frame=true&column=6&margin-w=10" />
+</p>
+
+---
 
 ## 🚀 Top Projects
 
-
-| 🌟 Project Name | 🛠 Tech Stack | 🔗 Live Demo | 📦 Repository |
-|----------------|--------------|--------------|---------------|
-| **Toxic Comment Detector** <br> _Real-time toxic chat filter for streams_ | HTML, CSS, JS | [🌐 Live](https://your-live-url.com) | [💻 Repo](https://github.com/Premraj-87/toxic-chat) |
-| **WebOS UI Clone** <br> _Web-based desktop OS experience_ | HTML, CSS, JS | [🖥️ Live](https://your-live-url.com) | [📁 Repo](https://github.com/Premraj-87/web-os) |
-| **Portfolio Website** <br> _Modern portfolio built with React_ | React, Tailwind CSS | [🚀 Live](https://yourportfolio.com) | [🗂 Repo](https://github.com/Premraj-87/portfolio) |
-
----
-
-
-<!-- GitHub Stats -->
-### 📊 GitHub Stats & Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=Premraj-87&theme=dark&hide_border=true&background=000000"
-    alt="GitHub Streak"
-    style="animation: fadeIn 2s ease-in-out;"
-  />
-</p>
-
----
-## 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="premrajanand91@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-### 🛰️ Contribution Graph 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
+
+<table>
+  <thead>
+    <tr>
+      <th>💻 Project</th>
+      <th>🧩 Tech Stack</th>
+      <th>🔗 Demo</th>
+      <th>📂 Code</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Toxic Comment Detector</strong></td>
+      <td>HTML, CSS, JS</td>
+      <td><a href="https://your-live-url.com" target="_blank">Live</a></td>
+      <td><a href="https://github.com/Premraj-87/toxic-chat" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>WebOS UI Clone</strong></td>
+      <td>HTML, CSS, JS</td>
+      <td><a href="https://your-live-url.com" target="_blank">Live</a></td>
+      <td><a href="https://github.com/Premraj-87/web-os" target="_blank">Repo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Portfolio Website</strong></td>
+      <td>React + Tailwind</td>
+      <td><a href="https://yourportfolio.com" target="_blank">Live</a></td>
+      <td><a href="https://github.com/Premraj-87/portfolio" target="_blank">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
+
 </p>
-
-
 
 ---
 
->
->“Code with passion, design with love.” — Prem Raj Anand 💻🔥
+## 📫 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/prem-raj-anand" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:premrajanand87@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✍️ Quote
+
+<p align="center">
+  <i>"Consistency beats talent. I may not be the best, but I never stop trying to become better."</i>
+</p>
