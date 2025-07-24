@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=I'm+Prem+Raj+Anand,+a+passionate+React+Frontend+Developer.;I+love+crafting+clean+UI,+smooth+UX+and+responsive+web+apps.;Focused+on+React,+Tailwind+CSS,+JavaScript+and+modern+UI+designs.;Currently+learning+Next.js+and+TypeScript+to+go+next+level.;I+believe+in+code+with+creativity+and+consistency." alt="About Me Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Aspiring+Full+Stack+Developer+learning+MERN.;Solving+real+problems+through+code.;Exploring+Next.js,+Docker,+and+Cloud+deployments.;Curious+about+AI+%26+ML+for+future+use.;Open+to+internships+and+freelance+projects." alt="Typing About Me" />
 </p>
 
 
