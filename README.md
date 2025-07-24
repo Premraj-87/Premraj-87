@@ -5,6 +5,7 @@
 
 
 
+
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=800&color=00FF00&center=false&vCenter=false&multiline=true&width=600&height=100&lines=Aspiring+Full+Stack+Developer+learning+MERN.;Solving+real+problems+through+code.;Exploring+Next.js,+Docker,+and+Cloud+deployments.;Curious+about+AI+%26+ML+for+future+use.;Open+to+internships+and+freelance+projects." alt="Typing Animation" />
 </p>
