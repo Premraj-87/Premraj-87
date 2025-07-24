@@ -40,13 +40,29 @@
 
 ---
 
+<!-- GitHub Stats -->
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&hide_border=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=tokyonight" height="180px"/>
 </p>
+
+---
+
+<!-- GitHub Trophies -->
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Premraj-87&theme=radical&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+<!-- Contribution Graph -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Premraj-87&theme=react-dark&area=true&hide_border=true" />
+</p>
+
 
 ---
 
