@@ -1,7 +1,8 @@
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=39FF14&width=435&lines=Hi+there%2C+I'm+Prem+Raj+Anand;Frontend+React+Developer+%F0%9F%92%BB;Turning+Ideas+Into+UI+Magic!;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=FF6F61&center=false&vCenter=false&multiline=true&width=520&lines=👋+Hi+there%2C+I'm+Prem+Raj+Anand.;💻+Frontend+React+Developer." alt="Typing SVG" />
 </p>
+
 
 
 <p align="left">
