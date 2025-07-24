@@ -70,7 +70,7 @@
 ---
 ## 🤝 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="premrajanand91@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
