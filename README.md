@@ -4,8 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Turning+Ideas+Into+UI+Magic!;React+Enthusiast+%F0%9F%92%BB;Frontend+Developer+%F0%9F%93%8A;Lifelong+Learner+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=I'm+Prem+Raj+Anand,+a+passionate+React+Frontend+Developer.;I+love+crafting+clean+UI,+smooth+UX+and+responsive+web+apps.;Focused+on+React,+Tailwind+CSS,+JavaScript+and+modern+UI+designs.;Currently+learning+Next.js+and+TypeScript+to+go+next+level.;I+believe+in+code+with+creativity+and+consistency." alt="About Me Typing" />
+</p>
 
-<p align="center">
+
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Premraj-87&label=Profile%20views&color=0e75b6&style=flat" alt="Premraj-87" />
 </p>
 
