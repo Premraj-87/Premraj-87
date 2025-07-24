@@ -40,25 +40,6 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-
-<!-- Contribution Graph -->
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-
-
----
 
 ## 🚀 Top Projects
 
@@ -81,6 +62,24 @@
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+<p align="center">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=tokyonight" height="180px"/>
+</p>
+
+---
+
+
+<!-- Contribution Graph -->
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+
 
 ---
 
