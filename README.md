@@ -60,8 +60,9 @@
 <!-- Contribution Graph -->
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Premraj-87&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+
 
 
 ---
