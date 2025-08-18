@@ -18,9 +18,8 @@
 <p align="left">
 I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smooth, interactive, and user-friendly web apps.  
 Currently learning the <b>MERN stack</b> while creating projects that improve my problem-solving and design skills.  
+Always curious to explore new tools and frameworks, I aim to grow as a developer who blends <b>creativity with clean code</b>.  
 </p>
-
----
 
 </td>
 
@@ -32,6 +31,7 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
 </table>
 
 ---
+
 ### 🧰 Languages & Tools  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -43,6 +43,8 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+---
 
 ## Top Projects
 
@@ -56,9 +58,16 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
 
 ## 📊 GitHub Stats & Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+    </td>
+    <td valign="middle">
+      <b>⚡ Always experimenting, learning, and pushing new ideas into code.</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -67,14 +76,4 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:premrajanand91@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-
----
-
-## 🛰️ Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
-</p>
-
-
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the
