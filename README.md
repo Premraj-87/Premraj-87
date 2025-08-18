@@ -3,6 +3,11 @@
   Professional • Minimal • Responsive
 -->
 
+<!-- Typing Intro -->
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2CB&width=600&lines=Hi%2C+I'm+Prem+Raj+Anand;MERN+Stack+Developer;Passionate+about+building+modern+web+apps" alt="Typing Intro" />
+</p>
+
 # 👋 Hi, I'm Prem Raj Anand
 
 <table>
@@ -49,14 +54,6 @@ I’m open to **collaborations** and **internships** where I can deliver impact 
 | **Toxic Comment Detector** | Real-time toxic chat filter for stream simulations. | — |
 | **WebOS UI Clone** | Desktop-style browser UI with draggable windows & built-in apps. | — |
 | **Portfolio Website** | Personal portfolio with modern UI & smooth animations. | [Live](https://premportfolio-gold.vercel.app/) |
-
-<details>
-  <summary>➕ Add more projects (optional)</summary>
-
-- **Pinterest Clone** — Save, organize, and discover pins; Auth, Boards, Search — *(link when live)*  
-- **MERN Auth Starter** — JWT auth, roles, protected routes — *(link when live)*  
-
-</details>
 
 ---
 
