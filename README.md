@@ -13,15 +13,15 @@
     <!-- Left Side (About Me) -->
     <td width="60%" valign="top" align="left">
       
-### 👨‍💻 About Me  
+### About Me  
 I’m <b>Prem Raj Anand</b>, a passionate <b>Frontend Developer</b> who loves creating smooth, interactive, and user-friendly web apps.  
-Currently exploring the <b>MERN stack</b> while building projects to sharpen my problem-solving and design skills.  
+Currently exploring the <b>MERN stack</b> while building projects that improve my problem-solving and design skills.  
 
     </td>
     
     <!-- Right Side (GIF + Caption) -->
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="80%" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" />
       <br/>
       <b>⚡ GitHub Stats Below</b>
     </td>
@@ -57,6 +57,8 @@ Currently exploring the <b>MERN stack</b> while building projects to sharpen my 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <br/>
+  <i>My top languages & coding activity!</i>
 </p>
 
 ---
