@@ -1,51 +1,70 @@
 <!--
   Prem Raj Anand — GitHub Profile README
-  Professional • Clean • Minimal
+  Professional • Clean • Minimal • With GIF
 -->
 
 # 👋 Hi, I'm Prem Raj Anand
 
-**MERN Stack Developer | Frontend-Focused Web Engineer**  
-I build modern, scalable, and user-friendly web applications with clean UI and reliable backend systems.  
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🧑‍💻 About Me  
+
+I’m a **MERN Stack Developer** passionate about building **scalable and user-friendly web applications**.  
+I specialize in creating **modern UIs** with React and TailwindCSS, while ensuring reliable backends with Node.js and Express.  
+Currently, I’m exploring **Next.js, Docker, and cloud hosting**, and I love working on real-world projects that solve practical problems.  
+I’m open to **collaborations, internships, and exciting opportunities** in web development.  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="80%" style="border-radius:10px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧑‍💻 About Me
-- 🌱 Currently learning **Next.js, Docker, and cloud hosting**  
-- 🛠 Building **real-world projects** to strengthen skills  
-- 🔍 Interested in **internships** and **collaborative projects**  
-- 💡 Exploring **AI & Machine Learning** on the side  
+## ⚙️ Tech Stack  
 
----
-
-## ⚙️ Tech Stack
-
-**Frontend:** React, Next.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, MongoDB, REST APIs  
-**Tools & Platforms:** Git, GitHub, VS Code, Docker, Vercel  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech | Live | Repo |
-| --- | --- | --- | --- | --- |
-| **Toxic Comment Detector** | Real-time toxic chat filter for stream simulations. | JS, HTML, CSS | — | [GitHub](https://github.com/Premraj-87/toxic-chat) |
-| **WebOS UI Clone** | Desktop-style browser UI with draggable windows & apps. | JS, HTML, CSS | — | [GitHub](https://github.com/Premraj-87/web-os) |
-| **Portfolio Website** | Personal portfolio with modern UI & animations. | React, Tailwind CSS | [Live](https://premportfolio-gold.vercel.app/) | [GitHub](https://github.com/Premraj-87/Portfolio_one) |
-
----
-
-## 📊 GitHub Insights
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=Premraj-87&theme=tokyonight&hide_border=true" height="160" />
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,next,js,html,css,tailwind,framer" height="40"/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="40"/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" height="40"/>
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 🚀 Featured Projects  
+
+| Project | Description | Live |
+| --- | --- | --- |
+| **Toxic Comment Detector** | Real-time toxic chat filter for stream simulations. | — |
+| **WebOS UI Clone** | Desktop-style browser UI with draggable windows & apps. | — |
+| **Portfolio Website** | Personal portfolio with modern UI & animations. | [Live](https://premportfolio-gold.vercel.app/) |
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Premraj-87&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<!-- Commit graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Commit%20History" alt="GitHub Commit Graph"/>
+</p>
+
+---
+
+## 📬 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/premrajanand87/)  
 - 🌐 [Portfolio](<your-portfolio-url>)  
