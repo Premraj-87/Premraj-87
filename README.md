@@ -64,8 +64,8 @@ Always curious to explore new tools and frameworks, I aim to grow as a developer
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
     </td>
     <td valign="middle">
-      <p>⚡ Always experimenting, learning, and exploring new tools and frameworks.</p>
-      <p>💡 Continuously pushing creative ideas into code and building projects that challenge me.</p>
+      <p> Always experimenting, learning, and exploring new tools and frameworks.</p>
+      <p> Continuously pushing creative ideas into code and building projects that challenge me.</p>
     </td>
   </tr>
 </table>
@@ -84,5 +84,5 @@ Always curious to explore new tools and frameworks, I aim to grow as a developer
 
 ## 🛰️ Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=%20My%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
