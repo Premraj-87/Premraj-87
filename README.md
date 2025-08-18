@@ -22,6 +22,18 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
 
 ---
 
+
+
+</td>
+
+<!-- Right Side (GIF) -->
+<td width="40%" align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="80%" />
+</td>
+</tr>
+</table>
+
+---
 ### 🧰 Languages & Tools  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -33,16 +45,6 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
-</td>
-
-<!-- Right Side (GIF) -->
-<td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="80%" />
-</td>
-</tr>
-</table>
-
 ---
 
 ## Top Projects
