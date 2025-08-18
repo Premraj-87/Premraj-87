@@ -16,10 +16,9 @@
 ### 💡 About Me  
 
 <p align="left">
-I’m <b>Prem Raj Anand</b>, a passionate <b>Frontend React Developer</b> who enjoys turning ideas into smooth and interactive web experiences.  
-Currently, I’m diving deep into the <b>MERN stack</b>—learning one step at a time while building real-world projects to sharpen my skills.  
-I love exploring modern tools like <b>Next.js, Docker, and cloud hosting</b>, and I’ve recently grown curious about <b>AI and machine learning</b>.  
-My goal is to keep improving every day and contribute to meaningful projects, while staying open to <b>internships, collaborations, and opportunities</b> in the tech community.  
+I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> passionate about building interactive and user-friendly web applications.  
+Currently learning the <b>MERN stack</b> while working on projects that sharpen my problem-solving and design skills.  
+I enjoy exploring new tools, experimenting with modern frameworks, and collaborating on meaningful ideas.  
 </p>
 
 ---
@@ -63,13 +62,9 @@ My goal is to keep improving every day and contribute to meaningful projects, wh
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Premraj-87&theme=dark&hide_border=true&background=000000" alt="GitHub Streak"/>
-</p>
-
 ---
 
-##  Connect with Me
+## 🤝 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
