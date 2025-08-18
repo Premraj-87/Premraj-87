@@ -13,16 +13,15 @@
     <!-- Left Side (Static Text + Tech Stack) -->
     <td width="60%" valign="top" align="left">
       
-### 💡 About Me
-<p>
-  <span style="color:#00FF00; font-family: 'Fira Code', monospace; font-size:14px;">
-    ✔ Learning MERN stack, one step at a time.<br/>
-    ✔ Building real projects to improve every day.<br/>
-    ✔ Exploring Next.js, Docker, and cloud hosting.<br/>
-    ✔ Getting curious about AI and machine learning.<br/>
-    ✔ Open to internships and collaboration opportunities.
-  </span>
+###  About Me  
+
+<p align="left">
+I’m Prem Raj Anand, a passionate <b>Frontend React Developer</b> who enjoys turning ideas into smooth and interactive web experiences.  
+Currently, I’m diving deep into the <b>MERN stack</b>—learning one step at a time while building real-world projects to sharpen my skills.  
+I love exploring modern tools like <b>Next.js, Docker, and cloud hosting</b>, and I’ve recently grown curious about <b>AI and machine learning</b>.  
+My goal is to keep improving every day and contribute to meaningful projects, while staying open to <b>internships, collaborations, and opportunities</b> in the tech community.  
 </p>
+
 
 ### 🧰 Languages & Tools
 <p>
