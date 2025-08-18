@@ -13,7 +13,7 @@
     <!-- Left Side (About Me + Tech Stack) -->
     <td width="60%" valign="top" align="left">
       
-###  About Me  
+### About Me  
 
 <p align="left">
 I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smooth, interactive, and user-friendly web apps.  
@@ -64,14 +64,15 @@ Always curious to explore new tools and frameworks, I aim to grow as a developer
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
     </td>
     <td valign="middle">
-      <b>⚡ Always experimenting, learning, and pushing new ideas into code.</b>
+      <p>⚡ Always experimenting, learning, and exploring new tools and frameworks.</p>
+      <p>💡 Continuously pushing creative ideas into code and building projects that challenge me.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-##  Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
