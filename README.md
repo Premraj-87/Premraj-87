@@ -13,12 +13,11 @@
     <!-- Left Side (About Me + Tech Stack) -->
     <td width="60%" valign="top" align="left">
       
-### 💡 About Me  
+###  About Me  
 
 <p align="left">
-I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> passionate about building interactive and user-friendly web applications.  
-Currently learning the <b>MERN stack</b> while working on projects that sharpen my problem-solving and design skills.  
-I enjoy exploring new tools, experimenting with modern frameworks, and collaborating on meaningful ideas.  
+I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smooth, interactive, and user-friendly web apps.  
+Currently learning the <b>MERN stack</b> while creating projects that improve my problem-solving and design skills.  
 </p>
 
 ---
@@ -46,13 +45,13 @@ I enjoy exploring new tools, experimenting with modern frameworks, and collabora
 
 ---
 
-## 🚀 Top Projects
+## Top Projects
 
-| Project | Description | Tech Stack | Live Demo | Repository |
-|---------|-------------|------------|-----------|------------|
-| **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. | HTML, CSS, JavaScript | [Live](https://your-live-url.com) | [GitHub](https://github.com/Premraj-87/toxic-chat) |
-| **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | HTML, CSS, JavaScript | [Live](https://your-live-url.com) | [GitHub](https://github.com/Premraj-87/web-os) |
-| **Portfolio Website** | A personal portfolio showcasing projects and skills with modern UI. | React, Tailwind CSS | [Live](https://premportfolio-gold.vercel.app/) | [GitHub](https://github.com/Premraj-87/Portfolio_one) |
+| Project | Description | Live Demo |
+|---------|-------------|-----------|
+| **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. | [Live](https://your-live-url.com) |
+| **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [Live](https://your-live-url.com) |
+| **Portfolio Website** | A personal portfolio showcasing projects and skills with modern UI. | [Live](https://premportfolio-gold.vercel.app/) |
 
 ---
 
@@ -64,7 +63,7 @@ I enjoy exploring new tools, experimenting with modern frameworks, and collabora
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -79,6 +78,4 @@ I enjoy exploring new tools, experimenting with modern frameworks, and collabora
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
 
----
 
-> 💻🔥 “Code with passion, design with love.” — *Prem Raj Anand*
