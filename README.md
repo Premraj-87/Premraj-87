@@ -10,20 +10,21 @@
 
 <table width="100%">
   <tr>
-    <!-- Left Side (Static Text + Tech Stack) -->
+    <!-- Left Side (About Me + Tech Stack) -->
     <td width="60%" valign="top" align="left">
       
-###  About Me  
+### 💡 About Me  
 
 <p align="left">
-I’m Prem Raj Anand, a passionate <b>Frontend React Developer</b> who enjoys turning ideas into smooth and interactive web experiences.  
+I’m <b>Prem Raj Anand</b>, a passionate <b>Frontend React Developer</b> who enjoys turning ideas into smooth and interactive web experiences.  
 Currently, I’m diving deep into the <b>MERN stack</b>—learning one step at a time while building real-world projects to sharpen my skills.  
 I love exploring modern tools like <b>Next.js, Docker, and cloud hosting</b>, and I’ve recently grown curious about <b>AI and machine learning</b>.  
 My goal is to keep improving every day and contribute to meaningful projects, while staying open to <b>internships, collaborations, and opportunities</b> in the tech community.  
 </p>
 
+---
 
-### 🧰 Languages & Tools
+### 🧰 Languages & Tools  
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -68,7 +69,7 @@ My goal is to keep improving every day and contribute to meaningful projects, wh
 
 ---
 
-## 🤝 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -78,7 +79,7 @@ My goal is to keep improving every day and contribute to meaningful projects, wh
 
 ---
 
-## 🛰️ Contribution Graph 
+## 🛰️ Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
