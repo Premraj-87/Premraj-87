@@ -10,11 +10,12 @@
 
 <table width="100%">
   <tr>
-    <!-- Left Side (About Me + Tech Stack) -->
+    <!-- Left Side (About Me) -->
     <td width="60%" valign="top" align="left">
       
-### About Me  
-I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smooth, interactive, and user-friendly web apps. Currently learning the <b>MERN stack</b> while creating projects that improve my problem-solving and design skills.  
+### 👨‍💻 About Me  
+I’m <b>Prem Raj Anand</b>, a passionate <b>Frontend Developer</b> who loves creating smooth, interactive, and user-friendly web apps.  
+Currently exploring the <b>MERN stack</b> while building projects to sharpen my problem-solving and design skills.  
 
     </td>
     
@@ -43,7 +44,7 @@ I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smo
 
 ---
 
-## Top Projects
+### 🚀 Top Projects
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
 | **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. | [Live](https://your-live-url.com) |
@@ -52,14 +53,15 @@ I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smo
 
 ---
 
-## 📊 GitHub Stats & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
 ---
 
-## Connect with Me
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:premrajanand91@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -68,7 +70,7 @@ I’m <b>Prem Raj Anand</b>, a <b>Frontend Developer</b> focused on building smo
 
 ---
 
-## 🛰️ Contribution Graph
+### 🛰️ Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=🔥%20My%20Contribution%20Graph" alt="Contribution Graph"/>
 </p>
