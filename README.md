@@ -22,8 +22,6 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
 
 ---
 
-
-
 </td>
 
 <!-- Right Side (GIF) -->
@@ -45,7 +43,6 @@ Currently learning the <b>MERN stack</b> while creating projects that improve my
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
----
 
 ## Top Projects
 
