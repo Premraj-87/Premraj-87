@@ -25,7 +25,7 @@ Always curious to explore new tools and frameworks, I aim to grow as a developer
 
 <!-- Right Side (GIF) -->
 <td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="80%" />
+  <img src="https://i.pinimg.com/originals/b7/fe/09/b7fe0977bad1950393d6450f32a37ca0.gif" width="80%" />
 </td>
 </tr>
 </table>
