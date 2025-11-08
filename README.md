@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="" alt="Profile Views" />
+  <img src="https://i.pinimg.com/736x/72/4b/7c/724b7c6f0346a29e32e4465213de33dc.jpg" alt="Profile Views" />
 </p>
 
 ---
@@ -25,7 +25,7 @@ Always curious to explore new tools and frameworks, I aim to grow as a developer
 
 <!-- Right Side (GIF) -->
 <td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/ce/76/0f/ce760fde1800bc12b74dfd67d2a5dcbe.gif" width="80%" />
+  <img src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif" width="80%" />
 </td>
 </tr>
 </table>
