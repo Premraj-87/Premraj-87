@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://i.pinimg.com/736x/31/04/60/31046062275e8ee91e86870389aa4c81.jpg" width="20px" alt="Profile Views" />
+  <img src="https://i.pinimg.com/736x/78/4c/30/784c308a33e06bcc185338b50c6b47e3.jpg" width="100%" alt="Profile Views" />
 </p>
 
 ---
