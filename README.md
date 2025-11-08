@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Premraj-87&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif" alt="Profile Views" />
 </p>
 
 ---
