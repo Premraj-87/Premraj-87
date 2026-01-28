@@ -1,11 +1,5 @@
 
 
-<p align="left">
-  <img src="https://i.pinimg.com/originals/a1/f8/be/a1f8be54a08a324c83e747a8fa5ed660.gif" width="100%" height="300px" alt="Profile Views" />
-</p>
-
----
-
 <table width="100%">
   <tr>
     <!-- Left Side (About Me + Tech Stack) -->
