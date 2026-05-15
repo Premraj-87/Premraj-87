@@ -18,13 +18,12 @@
 <tr>
 <td width="60%" valign="top">
 
-Hey there! I'm **Prem Raj Anand** — a **Frontend Developer** focused on building smooth, interactive, and user-friendly web apps.
 
-- Expanding my skill set with the MERN Stack, building full-stack projects from the ground up
-- Focused on writing clean, scalable code while continuously improving my problem-solving approach
-- Passionate about crafting intuitive user experiences that balance aesthetics with functionality
-- Consistently exploring modern tools and frameworks to stay current with industry trends
-- Open to new opportunities, freelance work, and meaningful collaborations
+I'm a Frontend Developer who enjoys building web experiences that feel smooth and intuitive.
+Right now I'm learning the MERN Stack and working on projects that push me to think better
+and write cleaner code. I care about the details — both in design and in code — and I'm
+always picking up new tools along the way. Feel free to reach out if you want to build
+something together.
 - 📫 Reach me at **premrajanand91@gmail.com**
 
 </td>
