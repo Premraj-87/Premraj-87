@@ -6,8 +6,7 @@
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+smooth+%26+interactive+UIs;Learning+the+MERN+Stack;Blending+creativity+with+clean+code;Always+exploring+new+tools+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Visitor badge -->
-![Visitor Count](https://komarev.com/ghpvc/?username=Premraj-87&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 </div>
 
@@ -60,21 +59,6 @@ Hey there! I'm **Prem Raj Anand** — a **Frontend Developer** focused on buildi
 | **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. Uses ML-powered keyword analysis. | [→ Live Demo](https://your-live-url.com) |
 | **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [→ Live Demo](https://your-live-url.com) |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://premportfolio-gold.vercel.app/) |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=tokyonight&hide_border=true" width="70%"/>
-</div>
 
 ---
 
