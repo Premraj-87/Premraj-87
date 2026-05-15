@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <table>
 <tr>
@@ -20,10 +20,11 @@
 
 Hey there! I'm **Prem Raj Anand** — a **Frontend Developer** focused on building smooth, interactive, and user-friendly web apps.
 
-- 🌱 Currently learning the **MERN Stack**
-- 🎯 Creating projects that sharpen my **problem-solving & design skills**
-- ✨ I love blending **creativity with clean code**
-- 🔍 Always curious to explore **new tools and frameworks**
+- Expanding my skill set with the MERN Stack, building full-stack projects from the ground up
+- Focused on writing clean, scalable code while continuously improving my problem-solving approach
+- Passionate about crafting intuitive user experiences that balance aesthetics with functionality
+- Consistently exploring modern tools and frameworks to stay current with industry trends
+- Open to new opportunities, freelance work, and meaningful collaborations
 - 📫 Reach me at **premrajanand91@gmail.com**
 
 </td>
