@@ -28,14 +28,14 @@ Hey there! I'm **Prem Raj Anand** — a **Frontend Developer** focused on buildi
 
 </td>
 <td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/bd/a3/b6/bda3b64c64f7fdc7b267b55483f72dea.gif" width="85%" style="border-radius:10px"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="85%" style="border-radius:10px"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -52,9 +52,9 @@ Hey there! I'm **Prem Raj Anand** — a **Frontend Developer** focused on buildi
 
 ---
 
-## 🚀 Top Projects
+##  Top Projects
 
-| 🔥 Project | 📝 Description | 🌐 Live |
+| Project | Description | Live |
 |-----------|----------------|---------|
 | **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. Uses ML-powered keyword analysis. | [→ Live Demo](https://your-live-url.com) |
 | **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [→ Live Demo](https://your-live-url.com) |
@@ -62,13 +62,13 @@ Hey there! I'm **Prem Raj Anand** — a **Frontend Developer** focused on buildi
 
 ---
 
-## 🛰️ Contribution Graph
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/">
