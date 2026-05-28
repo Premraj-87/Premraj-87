@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:38bdf8&text=Prem%20Raj%20Anand&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descAlignY=68&descSize=12"/>
 
-## About Me
+ About Me
 <table>
 <tr>
 
@@ -15,7 +15,7 @@ Currently focused on mastering the MERN Stack while continuously improving my sk
 
 I enjoy turning ideas into interactive interfaces and building projects that combine creativity with functionality. Always exploring new technologies and refining my development workflow to create better digital experiences.
 
-📫 **Email:** **premrajanand91@gmail.com**
+Email:** **premrajanand91@gmail.com**
 
 </td>
 
@@ -26,7 +26,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 </tr>
 </table>
 
-## Languages & Tools
+Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -41,7 +41,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 </p>
 
 
-##  Top Projects
+ Top Projects
 
 | Project | Description | Live |
 |-----------|----------------|---------|
@@ -50,7 +50,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
 
 
-## Complete Developer Dashboard
+ Complete Developer Dashboard
 
 <div align="center">
 
@@ -63,7 +63,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 
 
 
-## Connect With Me
+ Connect With Me
 
 <p align="center">
 
