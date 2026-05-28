@@ -23,7 +23,7 @@ Currently focused on mastering the MERN Stack while continuously improving my sk
 
 I enjoy turning ideas into interactive interfaces and building projects that combine creativity with functionality. Always exploring new technologies and refining my development workflow to create better digital experiences.
 
-Email:** **premrajanand91@gmail.com**
+Email: **premrajanand91@gmail.com**
 
 </td>
 
@@ -67,18 +67,18 @@ Languages & Tools
 
  Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/premrajanand87/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:premrajanand91@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF3B30?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://portfolio-fullstack-eosin.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00C2FF"/>
 </a>
 
 </p>
