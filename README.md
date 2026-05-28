@@ -59,6 +59,25 @@ Languages & Tools
 
 </div>
 
+<!-- OPTION 3 — Cyberpunk Dev Metrics -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Premraj-87&layout=compact&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=Premraj-87&theme=matrix&no-frame=true&row=2&column=3"/>
+
+</div>
+
+<!-- OPTION 5 — Futuristic Hacker UI -->
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Premraj-87&theme=tokyonight"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Premraj-87&theme=tokyonight"/>
+
+</div>
 
 
 
