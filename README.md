@@ -58,6 +58,6 @@ something together.
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-<td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="85%" style="border-radius:10px"/>
+<td width="100%" align="center">
+  <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="85%" style="border-radius:10px"/>
 </td>
