@@ -52,11 +52,11 @@ Languages & Tools
 
  Complete Developer Dashboard
 
+<!-- OPTION 1 — Animated Contribution Snake -->
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Premraj-87&theme=github_dark"/>
+<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
 
-<br/>
 </div>
 
 
