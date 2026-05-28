@@ -1,174 +1,21 @@
 <div align="center">
 
-```bash
-PREMRAJ@DEV:~$
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;WELCOME+TO+PREMRAJ.EXE;FRONTEND+DEVELOPER;MERN+STACK+ENGINEER;CYBERPUNK+UI+ARCHITECT" />
 
-# PREM RAJ ANAND
-
-### Frontend Developer | MERN Stack Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+smooth+%26+interactive+UIs;Learning+the+MERN+Stack;Blending+creativity+with+clean+code;Always+exploring+new+tools" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff88&height=220&section=header&text=PREM%20RAJ%20ANAND&fontSize=45&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=60&descAlign=50"/>
 
 </div>
-
----
-
-## `ABOUT_ME`
-
-<table>
-<tr>
-
-<td width="60%">
-
-```bash
-> Frontend Developer passionate about clean UI
-> Currently learning the MERN Stack
-> Focused on scalable and clean code
-> Love minimal retro terminal aesthetics
-```
-
-```yaml
-name: Prem Raj Anand
-role: Frontend Developer
-location: India
-
-learning:
-  - React
-  - Node.js
-  - MongoDB
-  - Express.js
-
-email: premrajanand91@gmail.com
-```
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="100%" />
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `TECH_STACK`
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode&theme=dark"/>
-
-</p>
-
----
-
-## `PROJECTS`
-
-<table>
-
-<tr>
-
-<td width="33%">
-
-### Toxic Comment Detector
-
-```txt
-Real-time toxic chat filter
-for stream simulations using
-ML-powered keyword analysis.
-```
-
-<a href="https://your-live-url.com">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%">
-
-### WebOS UI Clone
-
-```txt
-Browser-based desktop OS
-experience with draggable
-windows and interactive apps.
-```
-
-<a href="https://your-live-url.com">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="33%">
-
-### Portfolio Website
-
-```txt
-Modern developer portfolio
-showcasing projects, skills
-and creative UI design.
-```
-
-<a href="https://premportfolio-gold.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-## `GITHUB_ACTIVITY`
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=github-compact&hide_border=true&area=false" width="100%" />
-
-</p>
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=black-ice&hide_border=true&background=000000"/>
-
-</p>
-
----
-
-## `CONNECT`
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/premrajanand87/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:premrajanand91@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://premportfolio-gold.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-```txt
-> Learn. Build. Share. Repeat.
-```
+```bash
+┌──( PREMRAJ㉿SYSTEM )-[~/neural-interface]
+└─$ initialize_protocol.sh
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=2"/>
-
-</div>
+[✓] UI SYSTEMS ............... ONLINE
+[✓] REACT CORE ............... ACTIVE
+[✓] MERN STACK ............... LOADING
+[✓] CYBERPUNK MODE ........... ENABLED
+[✓] STATUS ................... READY
