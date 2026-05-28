@@ -50,14 +50,6 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
 
 
-
-## Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
-
-
-
-<!-- ================= EXAMPLE 5 ================= -->
-
 ## Complete Developer Dashboard
 
 <div align="center">
@@ -67,17 +59,5 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 <br/>
 </div>
 
-
-## Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/premrajanand87/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:premrajanand91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-fullstack-eosin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+ : MINIMAL ICONS ================= --> ## Connect With Me <p align="center"> <a href="https://github.com/Premraj-87"> <img src="https://cdn.simpleicons.org/github/white" height="40"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/premrajanand87/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:premrajanand91@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://portfolio-fullstack-eosin.vercel.app/"> <img src="https://cdn.simpleicons.org/vercel/white" height="40"/> </a> </p>
 
