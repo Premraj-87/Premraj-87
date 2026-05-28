@@ -61,9 +61,8 @@ Languages & Tools
  Complete Developer Dashboard
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=false&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 
  Connect With Me
 
