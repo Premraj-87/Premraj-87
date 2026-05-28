@@ -29,7 +29,7 @@ Email:** **premrajanand91@gmail.com**
 
 
 <td width="40%" align="center">
-  <img src="https://i.pinimg.com/originals/c5/6c/97/c56c9756a71f917b5fd1c65f3f95d198.gif" width="85%" style="border-radius:10px"/>
+  <img src="https://i.pinimg.com/originals/0f/85/3d/0f853d64f1dde6d84aa37a2790a6bcde.gif" width="85%" style="border-radius:10px"/>
 </td>
 </tr>
 </table>
@@ -61,7 +61,7 @@ Languages & Tools
  Complete Developer Dashboard
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212750564-fee72b1b-1b6d-4b2f-8b44-4e2e5d1f8d8b.gif"/>
 
 </div>
 
