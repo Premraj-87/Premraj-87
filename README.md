@@ -3,40 +3,6 @@
 <!-- Modern Thin Cyber Header -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:38bdf8&text=Prem%20Raj%20Anand&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descAlignY=68&descSize=12"/>
-
-
-
-<!-- Clean Minimal Developer Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:000000,100:111827&text=%3C%20Prem%20Raj%20Anand%20%2F%3E&fontSize=30&fontColor=38bdf8&animation=fadeIn&fontAlignY=55"/>
-
-
-
-<!-- Neon Blue Thin Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:0f172a,100:2563eb&text=Prem%20Raj%20Anand&fontSize=34&fontColor=e0f2fe&animation=twinkling&fontAlignY=45&desc=Building%20Modern%20Web%20Experiences&descAlignY=70&descSize=12"/>
-
-
-
-<!-- Premium Gradient Thin Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=125&color=0:7c3aed,50:2563eb,100:06b6d4&text=Prem%20Raj%20Anand&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer&descAlignY=68&descSize=13"/>
-
-
-
-<!-- Dark Glass UI Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=115&color=0:020617,100:1e293b&text=Prem%20Raj%20Anand&fontSize=32&fontColor=67e8f9&animation=fadeIn&fontAlignY=48&desc=React%20•%20Node.js%20•%20MongoDB&descAlignY=72&descSize=12"/>
-
-
-
-<!-- Elegant Thin Professional Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:0f172a,100:334155&text=Prem%20Raj%20Anand&fontSize=33&fontColor=f8fafc&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Creative%20Coder&descAlignY=70&descSize=12"/>
-```
-
-
-
 ## About Me
 <table>
 <tr>
