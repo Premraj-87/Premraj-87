@@ -58,26 +58,8 @@ Languages & Tools
  Complete Developer Dashboard
 
 <div align="center">
+
 <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing+System...;Loading+Frontend+Developer...;MERN+Stack+Learner...;Building+Cool+Web+Experiences..."/>
-</div>
-
-
-<div align="center">
-
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=radical&hide_border=true"/>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=PREM%20RAJ%20ANAND&fontSize=45&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=55"/>
 
 </div>
 
