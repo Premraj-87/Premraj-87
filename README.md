@@ -75,11 +75,7 @@ email: premrajanand91@gmail.com
 
 ### Toxic Comment Detector
 
-```txt
-Real-time toxic chat filter
-for stream simulations using
-ML-powered keyword analysis.
-```
+
 
 <a href="https://your-live-url.com">
 <img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -91,11 +87,7 @@ ML-powered keyword analysis.
 
 ### WebOS UI Clone
 
-```txt
-Browser-based desktop OS
-experience with draggable
-windows and interactive apps.
-```
+
 
 <a href="https://your-live-url.com">
 <img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -107,11 +99,7 @@ windows and interactive apps.
 
 ### Portfolio Website
 
-```txt
-Modern developer portfolio
-showcasing projects, skills
-and creative UI design.
-```
+
 
 <a href="https://premportfolio-gold.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE_DEMO-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
