@@ -1,10 +1,10 @@
 <div align="center">
-<!-- Animated header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Raj%20Anand&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=55&descSize=16"/>
-<!-- Typing animation -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+smooth+%26+interactive+UIs;Learning+the+MERN+Stack;Blending+creativity+with+clean+code;Always+exploring+new+tools+%F0%9F%9A%80)](https://git.io/typing-svg)
 </div>
----
+
 ## About Me
 <table>
 <tr>
@@ -21,7 +21,7 @@ something together.
 </td>
 </tr>
 </table>
----
+
 ## Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -35,17 +35,17 @@ something together.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
----
+
 ##  Top Projects
 | Project | Description | Live |
 |-----------|----------------|---------|
 | **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. Uses ML-powered keyword analysis. | [→ Live Demo](https://your-live-url.com) |
 | **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [→ Live Demo](https://your-live-url.com) |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://premportfolio-gold.vercel.app/) |
----
+
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
----
+
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/">
