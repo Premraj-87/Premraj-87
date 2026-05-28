@@ -59,26 +59,6 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 <br/>
 </div>
 
-//////////
-
-## Developer Snapshot
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Developer;Building+Modern+Responsive+Interfaces;Learning+the+MERN+Stack;Focused+on+Clean+UI+%26+Performance;Always+Exploring+New+Technologies"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Role-Frontend%20Developer-111827?style=for-the-badge&logo=react&logoColor=38BDF8"/>
-
-<img src="https://img.shields.io/badge/Focus-Modern%20UI%2FUX-111827?style=for-the-badge&logo=figma&logoColor=A855F7"/>
-
-<img src="https://img.shields.io/badge/Currently-MERN%20Stack-111827?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-
-<img src="https://img.shields.io/badge/Tools-React%20%7C%20Tailwind-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-
-</div>
-```
 
 
 
