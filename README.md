@@ -1,38 +1,38 @@
 <div align="center">
-```html id="neoheader"
-<!-- Matrix Cyber Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=230&color=0:000000,50:0f172a,100:00ff99&text=PREM%20RAJ%20ANAND&fontSize=50&fontColor=00ffcc&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=62&descSize=18"/>
+<!-- Modern Thin Cyber Header -->
 
-
-
-<!-- Anime Hacker Style -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=220&color=0:09090b,50:18181b,100:27272a&text=Prem%20Raj%20Anand&fontSize=48&fontColor=22d3ee&animation=fadeIn&fontAlignY=40&desc=Building%20Interactive%20Web%20Experiences&descAlignY=64&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:38bdf8&text=Prem%20Raj%20Anand&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descAlignY=68&descSize=12"/>
 
 
 
-<!-- Ultra Minimal Dev Style -->
+<!-- Clean Minimal Developer Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:020617,100:111827&text=%3C%2FPremRajAnand%3E&fontSize=42&fontColor=38bdf8&animation=fadeIn&fontAlignY=50"/>
-
-
-
-<!-- Retro Neon Gradient -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ff0080,25:7928ca,50:2563eb,75:06b6d4,100:00ffcc&text=Prem%20Raj%20Anand&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20UI%20Designer&descAlignY=63&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:000000,100:111827&text=%3C%20Prem%20Raj%20Anand%20%2F%3E&fontSize=30&fontColor=38bdf8&animation=fadeIn&fontAlignY=55"/>
 
 
 
-<!-- Clean Premium Black -->
+<!-- Neon Blue Thin Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=210&color=0:000000,100:1e293b&text=Prem%20Raj%20Anand&fontSize=46&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=Modern%20Frontend%20Developer&descAlignY=62&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=120&color=0:0f172a,100:2563eb&text=Prem%20Raj%20Anand&fontSize=34&fontColor=e0f2fe&animation=twinkling&fontAlignY=45&desc=Building%20Modern%20Web%20Experiences&descAlignY=70&descSize=12"/>
 
 
 
-<!-- Futuristic Terminal UI -->
+<!-- Premium Gradient Thin Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:020617,50:0f172a,100:00b4d8&text=%24%20Prem%20Raj%20Anand&fontSize=46&fontColor=67e8f9&animation=blinking&fontAlignY=40&desc=Code.%20Create.%20Innovate.&descAlignY=64&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=125&color=0:7c3aed,50:2563eb,100:06b6d4&text=Prem%20Raj%20Anand&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer&descAlignY=68&descSize=13"/>
+
+
+
+<!-- Dark Glass UI Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=115&color=0:020617,100:1e293b&text=Prem%20Raj%20Anand&fontSize=32&fontColor=67e8f9&animation=fadeIn&fontAlignY=48&desc=React%20•%20Node.js%20•%20MongoDB&descAlignY=72&descSize=12"/>
+
+
+
+<!-- Elegant Thin Professional Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:0f172a,100:334155&text=Prem%20Raj%20Anand&fontSize=33&fontColor=f8fafc&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Creative%20Coder&descAlignY=70&descSize=12"/>
 ```
 
 
