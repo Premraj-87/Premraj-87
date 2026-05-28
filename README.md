@@ -47,38 +47,16 @@ Languages & Tools
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/VSCode-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8"/>
 </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F5FF"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF6B6B"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=4D9DE0"/>
-  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=57E389"/>
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D"/>
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F1502F"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/React-FF4D4D?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Tailwind-00C2FF?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Node.js-00A86B?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Git-E74C3C?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/VSCode-1F6FEB?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF"/>
-</p>
+
+
 
  Top Projects
 
 | Project | Description | Live |
 |-----------|----------------|---------|
-| **Tech Store** | Explore our wide selection of premium devices, smart accessories, and protective gear designed for the modern lifestyle. | [→ Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
-| **FitForge** | Stop guessing. FitForge calculates your Base Metabolic Rate, synthesizes your optimal macronutrient splits, and generates precise training protocols dynamically. | [→ Live Demo](https://fitforge-tm5q.vercel.app/) |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
+| **Tech Store** | Explore our wide selection of premium devices, smart accessories, and protective gear designed for the modern lifestyle. | [Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
+| **FitForge** | Stop guessing. FitForge calculates your Base Metabolic Rate, synthesizes your optimal macronutrient splits, and generates precise training protocols dynamically. | [Live Demo](https://fitforge-tm5q.vercel.app/) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
 
 
  Complete Developer Dashboard
