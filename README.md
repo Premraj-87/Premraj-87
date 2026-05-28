@@ -59,11 +59,7 @@ Languages & Tools
 
 
  Complete Developer Dashboard
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Prem%20Raj%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-</div>
 
  Connect With Me
 
