@@ -36,16 +36,16 @@ Email:** **premrajanand91@gmail.com**
 
 Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/JavaScript-1E40AF?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-1D4ED8?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Node.js-15803D?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-B91C1C?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VSCode-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8"/>
 </p>
 
 
