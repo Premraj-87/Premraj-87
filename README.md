@@ -1,10 +1,5 @@
 <div align="left">
 
-<!-- Modern Thin Cyber Header -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:0f172a,100:38bdf8&text=Prem%20Raj%20Anand&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descAlignY=68&descSize=12"/>
-<div align="center">
-
 <!-- Cyberpunk -->
 <div align="center">
 
