@@ -59,5 +59,5 @@ something together.
   </a>
 </p>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif &height=100&section=footer"/>
 </div>
