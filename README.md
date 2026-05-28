@@ -59,8 +59,11 @@ Languages & Tools
 
 
  Complete Developer Dashboard
-</div> <br> <!-- LIVE STATUS --> <div align="center"> <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=windows-terminal&logoColor=black"/> <img src="https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-00c2ff?style=for-the-badge"/> <img src="https://img.shields.io/badge/FOCUS-MERN%20STACK-ff00ff?style=for-the-badge"/> </div> <br> <!-- SYSTEM STATS --> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=transparent&hide_border=true&title_color=00ffcc&text_color=ffffff&icon_color=00ffcc"/> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=black-ice&hide_border=true&stroke=00ffcc&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc"/> </div> <br> <!-- SKILL MATRIX --> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode&theme=dark"/> </div> <br> <!-- CYBER DIVIDER --> <img width="100%" src="https://user-images.githubusercontent.com/74038190/212750564-fee72b1b-1b6d-4b2f-8b44-4e2e5d1f8d8b.gif"/> <br> <!-- CONTRIBUTION SNAKE --> <div align="center"> <img width="100%" src="https://raw.githubusercontent.com/Premraj-87/Premraj-87/output/github-contribution-grid-snake-dark.svg"/> </div> <br> <!-- TERMINAL FOOTER --> <div align="center">
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=180&color=gradient&text=Prem%20Raj%20Anand&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+</div>
 
  Connect With Me
 
