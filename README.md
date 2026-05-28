@@ -18,7 +18,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 📫 **Email:** **premrajanand91@gmail.com**
 
 </td>
-```
+
 
 <td width="40%" align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="85%" style="border-radius:10px"/>
