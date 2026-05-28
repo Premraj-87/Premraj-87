@@ -18,7 +18,7 @@ something together.
 </td>
 </tr>
 </table>
----
+
 ## Languages & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -32,17 +32,17 @@ something together.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
----
+
 ##  Top Projects
 | Project | Description | Live |
 |-----------|----------------|---------|
 | **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. Uses ML-powered keyword analysis. | [→ Live Demo](https://your-live-url.com) |
 | **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [→ Live Demo](https://your-live-url.com) |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://premportfolio-gold.vercel.app/) |
----
+
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
----
+
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/">
@@ -55,6 +55,4 @@ something together.
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+
