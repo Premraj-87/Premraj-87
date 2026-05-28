@@ -54,6 +54,79 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
+yeh mera khud ka hai 
+
+
+GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+
+<!-- ================= EXAMPLE 2 ================= -->
+
+## Development Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Premraj-87&theme=tokyonight"/>
+
+</div>
+
+
+
+<!-- ================= EXAMPLE 3 ================= -->
+
+## Coding Stats
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Premraj-87&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Premraj-87&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Premraj-87&theme=tokyonight&utcOffset=8"/>
+
+</div>
+
+
+
+<!-- ================= EXAMPLE 4 ================= -->
+
+## GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Premraj-87&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+
+
+<!-- ================= EXAMPLE 5 ================= -->
+
+## Complete Developer Dashboard
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Premraj-87&theme=github_dark"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+```
+
+
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/premrajanand87/">
