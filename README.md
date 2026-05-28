@@ -59,6 +59,10 @@ Languages & Tools
 
 
  Complete Developer Dashboard
+ 
+<p align="center">
+  <img src="https://ghchart.rshah.org/Premraj-87" />
+</p>
 
 
  Connect With Me
