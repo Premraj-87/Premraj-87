@@ -54,7 +54,7 @@ Languages & Tools
 | Project | Description | Live |
 |-----------|----------------|---------|
 | **Tech Store** | Explore premium devices, smart accessories, and essential gear built for modern living. | [Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
-| **FitForge** |  FitForge calculates your Base Metabolic Rate, synthesizes your optimal macronutrient splits, and generates precise training protocols dynamically. | [Live Demo](https://fitforge-tm5q.vercel.app/) |
+| **FitForge** | AI-powered fitness tool for BMR, macros, and training plans. | [Live Demo](https://fitforge-tm5q.vercel.app/) |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
 
 
