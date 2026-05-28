@@ -42,11 +42,14 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 
 
 ##  Top Projects
+
 | Project | Description | Live |
 |-----------|----------------|---------|
-| **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. Uses ML-powered keyword analysis. | [→ Live Demo](https://your-live-url.com) |
-| **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [→ Live Demo](https://your-live-url.com) |
+| **Tech Store** | Explore our wide selection of premium devices, smart accessories, and protective gear designed for the modern lifestyle. | [→ Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
+| **FitForge** | Stop guessing. FitForge calculates your Base Metabolic Rate, synthesizes your optimal macronutrient splits, and generates precise training protocols dynamically. | [→ Live Demo](https://fitforge-tm5q.vercel.app/) |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
+
+
 
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
