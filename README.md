@@ -51,13 +51,11 @@ Languages & Tools
 
 
  Top Projects
-
-
 | Project | Description | Live |
-|:--|:--|:--|
-| Tech Store | Premium devices, smart accessories & modern lifestyle gear. |  [Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
-| FitForge | AI fitness system for BMR, macros & training plans. |  [Live Demo](https://fitforge-tm5q.vercel.app/) |
-| Portfolio Website | Modern personal portfolio with clean UI. |  [Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
+|-----------|----------------|---------|
+| **Tech Store** | Explore our wide selection of premium devices, smart accessories, and protective gear designed for the modern lifestyle. | [Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
+| **FitForge** | Stop guessing. FitForge calculates your Base Metabolic Rate, synthesizes your optimal macronutrient splits, and generates precise training protocols dynamically. | [Live Demo](https://fitforge-tm5q.vercel.app/) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
 
 
  Complete Developer Dashboard
