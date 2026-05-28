@@ -46,7 +46,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 |-----------|----------------|---------|
 | **Toxic Comment Detector** | Real-time toxic chat filter built for stream simulations. Uses ML-powered keyword analysis. | [→ Live Demo](https://your-live-url.com) |
 | **WebOS UI Clone** | A browser-based desktop OS experience with draggable windows and apps. | [→ Live Demo](https://your-live-url.com) |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://premportfolio-gold.vercel.app/) |
+| **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [→ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
 
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
@@ -59,7 +59,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
   <a href="mailto:premrajanand91@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://premportfolio-gold.vercel.app/">
+  <a href="https://portfolio-fullstack-eosin.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
