@@ -1,6 +1,35 @@
 <div align="center">
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prem%20Raj%20Anand&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=55&descSize=16"/>
+```html
+<!-- Cyberpunk Minimal Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:0f172a,25:111827,50:1e293b,75:0f172a,100:38bdf8&text=Prem%20Raj%20Anand&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20MERN%20Stack%20Learner&descAlignY=60&descSize=18"/>
+
+
+
+<!-- Glassmorphism Style -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=220&color=0:0ea5e9,100:2563eb&text=Prem%20Raj%20Anand&fontSize=50&fontColor=f8fafc&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20|%20MERN%20Stack%20Learner&descAlignY=60&descSize=17"/>
+
+
+
+<!-- Dark Neon Style -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:020617,50:111827,100:0f172a&text=Prem%20Raj%20Anand&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20×%20MERN%20Stack%20Learner&descAlignY=62&descSize=18"/>
+
+
+
+<!-- Modern Gradient Style -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7c3aed,50:2563eb,100:06b6d4&text=Prem%20Raj%20Anand&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer%20•%20Creative%20Coder&descAlignY=58&descSize=18"/>
+
+
+
+<!-- Futuristic Blue UI -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:0f172a,100:0284c7&text=Prem%20Raj%20Anand&fontSize=44&fontColor=e2e8f0&animation=blinking&fontAlignY=40&desc=Frontend%20Developer%20|%20Building%20Modern%20Interfaces&descAlignY=62&descSize=17"/>
+```
+
 
 ## About Me
 <table>
