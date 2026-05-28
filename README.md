@@ -59,127 +59,13 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 <br/>
 </div>
 
- : MINIMAL ICONS ================= -->
 
-
-
-
-<!-- ================= STYLE 1 : GLASS ICONS ================= -->
 
 ## Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/Premraj-87">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
 
-<a href="https://www.linkedin.com/in/premrajanand87/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="mailto:premrajanand91@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
-
-<a href="https://portfolio-fullstack-eosin.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
-</a>
-
-</p>
-
-
-
-<!-- ================= STYLE 2 : NEON BADGES ================= -->
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Premraj-87">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=38BDF8"/>
-</a>
-
-<a href="https://www.linkedin.com/in/premrajanand87/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="mailto:premrajanand91@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://portfolio-fullstack-eosin.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
-</a>
-
-</p>
-
-
-
-<!-- ================= STYLE 3 : MINIMAL ICONS ================= -->
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Premraj-87">
-<img src="https://cdn.simpleicons.org/github/white" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/premrajanand87/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:premrajanand91@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://portfolio-fullstack-eosin.vercel.app/">
-<img src="https://cdn.simpleicons.org/vercel/white" height="40"/>
-</a>
-
-</p>
-
-
-
-<!-- ================= STYLE 4 : CYBERPUNK ================= -->
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Premraj-87">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=00FFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/premrajanand87/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=38BDF8"/>
-</a>
-
-<a href="mailto:premrajanand91@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-111827?style=flat-square&logo=gmail&logoColor=FF4D4D"/>
-</a>
-
-<a href="https://portfolio-fullstack-eosin.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=ffffff"/>
-</a>
-
-</p>
-
-
-
-<!-- ================= STYLE 5 : CLEAN PROFESSIONAL ================= -->
-
-## Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Premraj-87">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/premrajanand87/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
