@@ -7,14 +7,19 @@
 ## About Me
 <table>
 <tr>
+
 <td width="60%" valign="top">
-I'm a Frontend Developer who enjoys building web experiences that feel smooth and intuitive.
-Right now I'm learning the MERN Stack and working on projects that push me to think better
-and write cleaner code. I care about the details — both in design and in code — and I'm
-always picking up new tools along the way. Feel free to reach out if you want to build
-something together.
-- 📫 Reach me at **premrajanand91@gmail.com**
+
+Frontend Developer passionate about creating modern, responsive, and user-friendly web experiences.  
+Currently focused on mastering the MERN Stack while continuously improving my skills in frontend architecture, UI design, performance optimization, and clean code practices.
+
+I enjoy turning ideas into interactive interfaces and building projects that combine creativity with functionality. Always exploring new technologies and refining my development workflow to create better digital experiences.
+
+📫 **Email:** **premrajanand91@gmail.com**
+
 </td>
+```
+
 <td width="40%" align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="85%" style="border-radius:10px"/>
 </td>
