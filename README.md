@@ -54,7 +54,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 ## Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Premraj-87&theme=tokyo-night&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
-yeh mera khud ka hai 
+
 
 <!-- ================= EXAMPLE 5 ================= -->
 
@@ -68,10 +68,8 @@ yeh mera khud ka hai
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Premraj-87&theme=github-dark-blue&hide_border=true"/>
 
 </div>
-```
 
 
 ## Connect with Me
