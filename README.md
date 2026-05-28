@@ -59,6 +59,18 @@ Languages & Tools
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0078D4"/>
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/React-FF4D4D?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CSS3-3A86FF?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Tailwind-00C2FF?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Node.js-00A86B?style=for-the-badge&logo=node.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/MongoDB-2ECC71?style=for-the-badge&logo=mongodb&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-E74C3C?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/VSCode-1F6FEB?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF"/>
+</p>
 
  Top Projects
 
