@@ -59,5 +59,5 @@ something together.
   </a>
 </p>
 <td width="100%" align="center">
-  <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" width="85%" style="border-radius:10px"/>
+  <img src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif" height="15%" style="border-radius:10px"/>
 </td>
