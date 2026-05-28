@@ -70,15 +70,15 @@ Languages & Tools
 <p align="left">
 
 <a href="https://www.linkedin.com/in/premrajanand87/">
-<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 
 <a href="mailto:premrajanand91@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-FF3B30?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Gmail-B91C1C?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://portfolio-fullstack-eosin.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00C2FF"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
 
 </p>
