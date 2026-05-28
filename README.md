@@ -1,8 +1,5 @@
 
 <div align="center">
-
-<img width="100%" height="120px" src="https://i.pinimg.com/originals/49/29/57/4929571ca9465e280f1fa7e9bd7772aa.gif"/>
-
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:0f172a,50:1e293b,100:0ea5e9&height=180&section=header&text=Prem%20Raj%20Anand&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20MERN%20Stack%20Learner&descAlignY=58&descSize=16"/>
@@ -138,7 +135,7 @@ Modern developer portfolio showcasing projects, skills, and animations with a cl
 
 <div align="center">
 
-<img width="100%" height="120px" src="https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif"/>
+<img width="100%" height="120px" src="https://i.pinimg.com/1200x/e8/92/62/e89262716d2e5e662875c4ebb5831983.jpg"/>
 
 </div>
 ```
