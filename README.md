@@ -64,11 +64,7 @@ I enjoy turning ideas into interactive interfaces and building projects that com
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Premraj-87&theme=github_dark"/>
 
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Premraj-87&show_icons=true&theme=github_dark&hide_border=true"/>
-
-
+<br/>
 </div>
 
 
