@@ -79,6 +79,8 @@ Languages & Tools
 <a href="https://portfolio-fullstack-eosin.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
-
 </p>
+<div>
+ <img src="https://i.pinimg.com/1200x/44/8e/4f/448e4f67817648396fbc45c5c017ae8b.jpg">
+</div>
 
