@@ -3,7 +3,9 @@
 <!-- Cyberpunk -->
 <div align="center">
 
-<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=Initializing+System...;Loading+Frontend+Developer...;MERN+Stack+Learner...;Building+Cool+Web+Experiences..."/>
+<img width="100%" 
+     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=1000&lines=System+Booting...;Hello,+I+am+Prem+Raj+Anand;MERN+Stack+Developer;Focused+on+Building+Web+Experiences;Always+Learning,+Always+Creating..." />
+
 
 </div>
 
