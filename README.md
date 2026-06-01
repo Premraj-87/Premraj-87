@@ -81,6 +81,6 @@ Languages & Tools
 </a>
 </p>
 <div>
- <img src="https://i.pinimg.com/1200x/44/8e/4f/448e4f67817648396fbc45c5c017ae8b.jpg">
+ <img src="https://i.pinimg.com/1200x/8d/75/34/8d7534b72000a6eb71148ea8b84662f1.jpg">
 </div>
 
