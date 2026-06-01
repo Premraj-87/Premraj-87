@@ -58,6 +58,7 @@ Languages & Tools
 | **Tech Store** | Explore premium devices, smart accessories, and essential gear built for modern living. | [Live Demo](https://tech-store-no1udzy0s-prem-raj-anands-projects.vercel.app/) |
 | **FitForge** | AI-powered fitness tool for BMR, macros, and training plans. | [Live Demo](https://fitforge-tm5q.vercel.app/) |
 | **Portfolio Website** | Personal portfolio showcasing projects and skills with a modern, clean UI. | [ Live Demo](https://portfolio-fullstack-eosin.vercel.app/) |
+| **Yoga Website** | Built to practice modern frontend development and create a real-world wellness website UI with strong focus on design consistency, responsiveness, and user experience. | [ Live Demo](https://yogawebsite-one.vercel.app/) |
 
 
  Complete Developer Dashboard
