@@ -81,5 +81,6 @@ Languages & Tools
 </a>
 </p>
 <div>
- <img src="https://i.pinimg.com/736x/8e/84/bf/8e84bffce91671374ce6b226e2a0b7c2.jpg">
+<img src="https://i.pinimg.com/736x/8e/84/bf/8e84bffce91671374ce6b226e2a0b7c2.jpg" 
+     style="width:100%; height:70%; object-fit:cover;" />
 
